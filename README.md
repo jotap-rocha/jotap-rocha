@@ -1,16 +1,18 @@
-## Hi there 👋
+h# Olá, eu sou João Pedro Rocha!
 
-<!--
-**jotap-rocha/jotap-rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um *Cientista de Dados* com conhecimento em *ferramentas*...
 
-Here are some ideas to get you started:
+- Python
+- sklearn
+- seaborn
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+*Suas experiências e proficiências*
+
+*Link de projeto relevante*
+
+<div style="display: inline-block">
+  <a href="[link_seu_Linkedin](https://www.linkedin.com/in/cientista-jp-rocha/)" target="_blank"><img src="![Static Badge](https://img.shields.io/badge/Linkedln-blue?style=flat&logo=linkedin)" target="_blank"></a>
+  <a href="jp.rocha2020[at]gmail.com" target="_blank"><img src="![Static Badge](https://img.shields.io/badge/contato-red?style=flat&logo=gmail)" target="_blank"></a>
+</div>
